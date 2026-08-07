@@ -1,0 +1,74 @@
+{
+  "en": {
+    "languageSwitcher": {
+      "en": "EN",
+      "si": "SI",
+      "ta": "TA"
+    },
+    "hero": {
+      "headline": "Calm is coming.",
+      "subheadline": "A confidential mental wellness booking platform connecting you with verified professionals.",
+      "emailPlaceholder": "Enter your email address",
+      "ctaButton": "Notify Me",
+      "successMsg": "Thanks for joining! We'll be in touch soon."
+    },
+    "footer": {
+      "copyright": "© 2026 Hitha.lk. All rights reserved."
+    },
+    "mascotMessages": [
+      "Hi! 💡",
+      "Hello there! 💡",
+      "Hi! Great ideas are brewing...",
+      "Hi! We're building something amazing 💡",
+      "Hi! 💭"
+    ]
+  },
+  "si": {
+    "languageSwitcher": {
+      "en": "EN",
+      "si": "SI",
+      "ta": "TA"
+    },
+    "hero": {
+      "headline": "හිතට සැනසීම ළඟයි.",
+      "subheadline": "සහතික කළ වෘත්තිකයන් සමඟ ඔබව සම්බන්ධ කරන, රහස්‍යභාවයෙන් යුතු මානසික සුවතා වෙන්කරවා ගැනීමේ වේදිකාවක්.",
+      "emailPlaceholder": "ඔබේ විද්‍යුත් තැපැල් ලිපිනය ඇතුළත් කරන්න",
+      "ctaButton": "දැනුම් දෙන්න",
+      "successMsg": "එකතු වූවාට ස්තූතියි! අපි ඉක්මනින්ම දැනුම් දෙන්නෙමු."
+    },
+    "footer": {
+      "copyright": "© 2026 Hitha.lk. සියලු හිමිකම් ඇවිරිණි."
+    },
+    "mascotMessages": [
+      "ආයුබෝවන්! 💡",
+      "සුබ දවසක්! 💡",
+      "අලුත් අදහස් ගොඩනැගෙමින් පවතී...",
+      "අපි අලුත්ම දෙයක් නිර්මාණය කරමින් සිටිමු 💡",
+      "ආයුබෝවන්! 💭"
+    ]
+  },
+  "ta": {
+    "languageSwitcher": {
+      "en": "EN",
+      "si": "SI",
+      "ta": "TA"
+    },
+    "hero": {
+      "headline": "அமைதி வருகிறது.",
+      "subheadline": "சரிபார்க்கப்பட்ட நிபுணர்களுடன் உங்களை இணைக்கும், ரகசியத்தன்மையுடன் கூடிய மனநல ஆரோக்கிய முன்பதிவு தளம்.",
+      "emailPlaceholder": "உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்",
+      "ctaButton": "எனக்கு தெரிவிக்கவும்",
+      "successMsg": "இணைந்ததற்கு நன்றி! விரைவில் தொடர்புகொள்வோம்."
+    },
+    "footer": {
+      "copyright": "© 2026 Hitha.lk. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
+    },
+    "mascotMessages": [
+      "வணக்கம்! 💡",
+      "ஹலோ! 💡",
+      "சிறந்த யோசனைகள் உருவாகின்றன...",
+      "நாங்கள் அற்புதமான ஒன்றை உருவாக்குகிறோம் 💡",
+      "வணக்கம்! 💭"
+    ]
+  }
+}
