@@ -10,9 +10,13 @@ import translationsData from "../../data/translations.json";
 
 type Language = "en" | "si" | "ta";
 
-export function ComingSoonHero() {
+interface ComingSoonHeroProps {
+  lang: Language;
+  toggleLanguage: () => void;
+}
+
+export function ComingSoonHero({ lang, toggleLanguage }: ComingSoonHeroProps) {
   const [activeMessage, setActiveMessage] = useState<string | null>(null);
-  const [lang, setLang] = useState<Language>("en");
   const timeoutRef = useRef<NodeJS.Timeout>(undefined);
   const mascotRef = useRef<HTMLDivElement>(null);
 
@@ -31,12 +35,6 @@ export function ComingSoonHero() {
       document.removeEventListener("touchstart", handleClickOutside);
     };
   }, []);
-
-  const toggleLanguage = () => {
-    if (lang === "en") setLang("si");
-    else if (lang === "si") setLang("ta");
-    else setLang("en");
-  };
 
   const t = translationsData[lang];
 
@@ -68,7 +66,7 @@ export function ComingSoonHero() {
   };
 
   return (
-    <main className="relative h-[100dvh] w-full flex flex-col items-center justify-center p-4 sm:p-6 overflow-hidden z-0">
+    <div className="relative h-[100dvh] w-full flex flex-col items-center justify-center p-4 sm:p-6 overflow-hidden z-0">
       <BackgroundClock />
 
       {/* Language Switcher Button (Cycle) */}
@@ -154,17 +152,7 @@ export function ComingSoonHero() {
             />
           </motion.div>
         </motion.div>
-
-        {/* 7. Small Footer */}
-        <motion.div 
-          variants={itemVariants} 
-          className="absolute bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 w-full px-4"
-        >
-          <p className="text-xs sm:text-sm text-[var(--navy)]/50 font-medium">
-            {t.footer.copyright}
-          </p>
-        </motion.div>
       </motion.div>
-    </main>
+    </div>
   );
 }

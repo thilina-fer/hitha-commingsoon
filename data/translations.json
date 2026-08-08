@@ -12,6 +12,15 @@
       "ctaButton": "Notify Me",
       "successMsg": "Thanks for joining! We'll be in touch soon."
     },
+    "features": {
+      "title": "Why choose Hitha?",
+      "f1Title": "100% Confidential",
+      "f1Desc": "Your privacy is our priority. Secure, anonymous bookings.",
+      "f2Title": "Verified Professionals",
+      "f2Desc": "Connect with licensed and experienced therapists.",
+      "f3Title": "Easy Booking",
+      "f3Desc": "Schedule sessions seamlessly from your device."
+    },
     "footer": {
       "copyright": "© 2026 Hitha.lk. All rights reserved."
     },
@@ -36,6 +45,15 @@
       "ctaButton": "දැනුම් දෙන්න",
       "successMsg": "එකතු වූවාට ස්තූතියි! අපි ඉක්මනින්ම දැනුම් දෙන්නෙමු."
     },
+    "features": {
+      "title": "Hitha තෝරා ගන්නේ ඇයි?",
+      "f1Title": "100% රහස්‍යභාවය",
+      "f1Desc": "ඔබගේ පෞද්ගලිකත්වය අපගේ ප්‍රමුඛතාවයයි. ආරක්ෂිත, නිර්නාමික වෙන්කිරීම්.",
+      "f2Title": "තහවුරු කළ වෘත්තිකයන්",
+      "f2Desc": "බලපත්‍රලාභී සහ පළපුරුදු උපදේශකයින් සමඟ සම්බන්ධ වන්න.",
+      "f3Title": "පහසු වෙන්කිරීම්",
+      "f3Desc": "ඔබගේ දුරකථනයෙන් පහසුවෙන් කාලය වෙන්කර ගන්න."
+    },
     "footer": {
       "copyright": "© 2026 Hitha.lk. සියලු හිමිකම් ඇවිරිණි."
     },
@@ -59,6 +77,15 @@
       "emailPlaceholder": "உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்",
       "ctaButton": "எனக்கு தெரிவிக்கவும்",
       "successMsg": "இணைந்ததற்கு நன்றி! விரைவில் தொடர்புகொள்வோம்."
+    },
+    "features": {
+      "title": "Hitha-ஐ ஏன் தேர்வு செய்ய வேண்டும்?",
+      "f1Title": "100% ரகசியமானது",
+      "f1Desc": "உங்கள் தனியுரிமையே எங்கள் முன்னுரிமை. பாதுகாப்பான, அநாமதேய முன்பதிவுகள்.",
+      "f2Title": "சரிபார்க்கப்பட்ட நிபுணர்கள்",
+      "f2Desc": "உரிமம் பெற்ற மற்றும் அனுபவம் வாய்ந்த சிகிச்சையாளர்களுடன் இணையுங்கள்.",
+      "f3Title": "எளிதான முன்பதிவு",
+      "f3Desc": "உங்கள் சாதனத்திலிருந்து தடையின்றி அமர்வுகளை திட்டமிடுங்கள்."
     },
     "footer": {
       "copyright": "© 2026 Hitha.lk. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை."
